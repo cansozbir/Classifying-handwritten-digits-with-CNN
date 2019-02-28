@@ -1,1 +1,1 @@
-# Classifying-handwritten-digits-with-Convolution-Neural-Network
+# Handwritten-digit-classification-with-Convolution-Neural-Network
